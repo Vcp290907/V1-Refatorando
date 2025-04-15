@@ -1,0 +1,17 @@
+{
+  "port": "",
+  "configuration": "cpu=atmega2560",
+  "output": "build",
+  "board": "arduino:avr:mega",
+  "programmer": "",
+  "useProgrammer": false,
+  "configurationRequired": true,
+  "monitorPortSettings": {
+    "port": "",
+    "baudRate": 9600,
+    "lineEnding": "\r\n",
+    "dataBits": 8,
+    "parity": "none",
+    "stopBits": "one"
+  }
+}

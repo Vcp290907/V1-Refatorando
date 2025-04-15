@@ -1,0 +1,18 @@
+#line 1 "C:\\Users\\VCP2909\\Desktop\\Carrinho_OBR\\Programação OBR_Arduino\\2025\\V1-Refatorando\\V1-Refatorando\\.vscode\\arduino.json"
+{
+  "port": "",
+  "configuration": "cpu=atmega2560",
+  "output": "build",
+  "board": "arduino:avr:mega",
+  "programmer": "",
+  "useProgrammer": false,
+  "configurationRequired": true,
+  "monitorPortSettings": {
+    "port": "",
+    "baudRate": 9600,
+    "lineEnding": "\r\n",
+    "dataBits": 8,
+    "parity": "none",
+    "stopBits": "one"
+  }
+}
